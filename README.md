@@ -16,7 +16,7 @@ Grid Layout вёрстка;
 Применение JS.
 
 
-### 3. Ссылки
+### Ссылки
 
 * [Страничка кофейни](https://aflamme.github.io/mesto/index.html);
 * [Ссылка на профиль](https://github.com/AFlamme)
